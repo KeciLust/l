@@ -1,0 +1,14 @@
+{
+    "name": "dinya/lar_hw1-1",
+    "autoload": {
+        "psr-4": {
+            "Dinya\\LarHw11\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keci"
+        }
+    ],
+    "require": {}
+}
